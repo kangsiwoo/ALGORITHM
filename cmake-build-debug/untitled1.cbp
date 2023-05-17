@@ -76,7 +76,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120803.c">
+			<Option target="untitled1"/>
+		</Unit>
 		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120804.c">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120805.c">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120807.c">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120810.c">
 			<Option target="untitled1"/>
 		</Unit>
 		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120820.c">
