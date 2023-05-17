@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/kangsiwoo/CLionProjects/untitled1/120817.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120817.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/120820.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120820.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/120829.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120829.c.o"
+  "/Users/kangsiwoo/CLionProjects/untitled1/120830.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120830.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/120831.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120831.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/main.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.c.o"
   )
