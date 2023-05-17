@@ -345,6 +345,30 @@ untitled1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/120829.c.s
 .PHONY : 120829.c.s
 
+120831.o: 120831.c.o
+.PHONY : 120831.o
+
+# target to build an object file
+120831.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/120831.c.o
+.PHONY : 120831.c.o
+
+120831.i: 120831.c.i
+.PHONY : 120831.i
+
+# target to preprocess a source file
+120831.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/120831.c.i
+.PHONY : 120831.c.i
+
+120831.s: 120831.c.s
+.PHONY : 120831.s
+
+# target to generate assembly for a file
+120831.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/120831.c.s
+.PHONY : 120831.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -405,6 +429,9 @@ help:
 	@echo "... 120829.o"
 	@echo "... 120829.i"
 	@echo "... 120829.s"
+	@echo "... 120831.o"
+	@echo "... 120831.i"
+	@echo "... 120831.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

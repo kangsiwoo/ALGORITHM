@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled1.dir/120810.c.o"
   "CMakeFiles/untitled1.dir/120820.c.o"
   "CMakeFiles/untitled1.dir/120829.c.o"
+  "CMakeFiles/untitled1.dir/120831.c.o"
   "CMakeFiles/untitled1.dir/main.c.o"
   "untitled1"
   "untitled1.pdb"
