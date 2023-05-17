@@ -76,6 +76,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120802.c">
+			<Option target="untitled1"/>
+		</Unit>
 		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120803.c">
 			<Option target="untitled1"/>
 		</Unit>
