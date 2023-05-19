@@ -2,8 +2,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-// arr_len은 배열 arr의 길이입니다.
-char* p12944(int arr[], size_t arr_len) {
-    int num = 65;
+char* solution(int num) {
     return (num % 2 == 0) ? "Even" : "Odd";
 }

@@ -23,6 +23,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled1.dir/120830.c.obj.d"
   "CMakeFiles/untitled1.dir/120831.c.obj"
   "CMakeFiles/untitled1.dir/120831.c.obj.d"
+  "CMakeFiles/untitled1.dir/12937.c.obj"
+  "CMakeFiles/untitled1.dir/12937.c.obj.d"
   "CMakeFiles/untitled1.dir/12941.c.obj"
   "CMakeFiles/untitled1.dir/12941.c.obj.d"
   "CMakeFiles/untitled1.dir/main.c.obj"

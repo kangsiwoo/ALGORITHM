@@ -20,6 +20,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/project/ALGORITHM/120829.c" "CMakeFiles/untitled1.dir/120829.c.obj" "gcc" "CMakeFiles/untitled1.dir/120829.c.obj.d"
   "C:/project/ALGORITHM/120830.c" "CMakeFiles/untitled1.dir/120830.c.obj" "gcc" "CMakeFiles/untitled1.dir/120830.c.obj.d"
   "C:/project/ALGORITHM/120831.c" "CMakeFiles/untitled1.dir/120831.c.obj" "gcc" "CMakeFiles/untitled1.dir/120831.c.obj.d"
+  "C:/project/ALGORITHM/12937.c" "CMakeFiles/untitled1.dir/12937.c.obj" "gcc" "CMakeFiles/untitled1.dir/12937.c.obj.d"
   "C:/project/ALGORITHM/12941.c" "CMakeFiles/untitled1.dir/12941.c.obj" "gcc" "CMakeFiles/untitled1.dir/12941.c.obj.d"
   "C:/project/ALGORITHM/main.c" "CMakeFiles/untitled1.dir/main.c.obj" "gcc" "CMakeFiles/untitled1.dir/main.c.obj.d"
   )
