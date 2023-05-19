@@ -4,32 +4,24 @@ set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
 
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
-  )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/Users/kangsiwoo/CLionProjects/untitled1/120802.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120802.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120803.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120803.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120804.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120804.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120805.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120805.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120806.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120806.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120807.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120807.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120810.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120810.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120817.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120817.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120820.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120820.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120829.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120829.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120830.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120830.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/120831.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/120831.c.o"
-  "/Users/kangsiwoo/CLionProjects/untitled1/main.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.c.o"
-  )
-set(CMAKE_C_COMPILER_ID "AppleClang")
-
-# The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/project/ALGORITHM/120802.c" "CMakeFiles/untitled1.dir/120802.c.obj" "gcc" "CMakeFiles/untitled1.dir/120802.c.obj.d"
+  "C:/project/ALGORITHM/120803.c" "CMakeFiles/untitled1.dir/120803.c.obj" "gcc" "CMakeFiles/untitled1.dir/120803.c.obj.d"
+  "C:/project/ALGORITHM/120804.c" "CMakeFiles/untitled1.dir/120804.c.obj" "gcc" "CMakeFiles/untitled1.dir/120804.c.obj.d"
+  "C:/project/ALGORITHM/120805.c" "CMakeFiles/untitled1.dir/120805.c.obj" "gcc" "CMakeFiles/untitled1.dir/120805.c.obj.d"
+  "C:/project/ALGORITHM/120806.c" "CMakeFiles/untitled1.dir/120806.c.obj" "gcc" "CMakeFiles/untitled1.dir/120806.c.obj.d"
+  "C:/project/ALGORITHM/120807.c" "CMakeFiles/untitled1.dir/120807.c.obj" "gcc" "CMakeFiles/untitled1.dir/120807.c.obj.d"
+  "C:/project/ALGORITHM/120810.c" "CMakeFiles/untitled1.dir/120810.c.obj" "gcc" "CMakeFiles/untitled1.dir/120810.c.obj.d"
+  "C:/project/ALGORITHM/120817.c" "CMakeFiles/untitled1.dir/120817.c.obj" "gcc" "CMakeFiles/untitled1.dir/120817.c.obj.d"
+  "C:/project/ALGORITHM/120820.c" "CMakeFiles/untitled1.dir/120820.c.obj" "gcc" "CMakeFiles/untitled1.dir/120820.c.obj.d"
+  "C:/project/ALGORITHM/120829.c" "CMakeFiles/untitled1.dir/120829.c.obj" "gcc" "CMakeFiles/untitled1.dir/120829.c.obj.d"
+  "C:/project/ALGORITHM/120830.c" "CMakeFiles/untitled1.dir/120830.c.obj" "gcc" "CMakeFiles/untitled1.dir/120830.c.obj.d"
+  "C:/project/ALGORITHM/120831.c" "CMakeFiles/untitled1.dir/120831.c.obj" "gcc" "CMakeFiles/untitled1.dir/120831.c.obj.d"
+  "C:/project/ALGORITHM/12941.c" "CMakeFiles/untitled1.dir/12941.c.obj" "gcc" "CMakeFiles/untitled1.dir/12941.c.obj.d"
+  "C:/project/ALGORITHM/main.c" "CMakeFiles/untitled1.dir/main.c.obj" "gcc" "CMakeFiles/untitled1.dir/main.c.obj.d"
   )
 
 # Targets to which this target links.

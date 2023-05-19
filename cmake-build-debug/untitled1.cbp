@@ -8,114 +8,117 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="C:/project/ALGORITHM/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1">
-				<Option output="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="C:/project/ALGORITHM/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/project/ALGORITHM/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1/fast">
-				<Option output="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="C:/project/ALGORITHM/cmake-build-debug/untitled1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/project/ALGORITHM/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="C:/project/ALGORITHM/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="C:/project/ALGORITHM/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/07rkd/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/mingw32-make.exe -f &quot;C:/project/ALGORITHM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120802.c">
+		<Unit filename="C:/project/ALGORITHM/120802.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120803.c">
+		<Unit filename="C:/project/ALGORITHM/120803.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120804.c">
+		<Unit filename="C:/project/ALGORITHM/120804.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120805.c">
+		<Unit filename="C:/project/ALGORITHM/120805.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120806.c">
+		<Unit filename="C:/project/ALGORITHM/120806.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120807.c">
+		<Unit filename="C:/project/ALGORITHM/120807.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120810.c">
+		<Unit filename="C:/project/ALGORITHM/120810.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120817.c">
+		<Unit filename="C:/project/ALGORITHM/120817.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120820.c">
+		<Unit filename="C:/project/ALGORITHM/120820.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120829.c">
+		<Unit filename="C:/project/ALGORITHM/120829.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120830.c">
+		<Unit filename="C:/project/ALGORITHM/120830.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/120831.c">
+		<Unit filename="C:/project/ALGORITHM/120831.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/main.c">
+		<Unit filename="C:/project/ALGORITHM/12941.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/Users/kangsiwoo/CLionProjects/untitled1/CMakeLists.txt">
+		<Unit filename="C:/project/ALGORITHM/main.c">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="C:/project/ALGORITHM/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
