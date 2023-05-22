@@ -3,6 +3,26 @@
 
 CMakeFiles/untitled1.dir/Codeup/1104.c.o: \
  /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1104.c
+CMakeFiles/untitled1.dir/Codeup/1526.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1526.c
+CMakeFiles/untitled1.dir/Codeup/1527.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1527.c
+CMakeFiles/untitled1.dir/Codeup/1528.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1528.c
+CMakeFiles/untitled1.dir/Codeup/1529.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1529.c
+CMakeFiles/untitled1.dir/Codeup/1530.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1530.c
+CMakeFiles/untitled1.dir/Codeup/1531.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1531.c
+CMakeFiles/untitled1.dir/Codeup/1532.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1532.c
+CMakeFiles/untitled1.dir/Codeup/1533.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1533.c
+CMakeFiles/untitled1.dir/Codeup/1534.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1534.c
+CMakeFiles/untitled1.dir/Codeup/1535.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1535.c
 CMakeFiles/untitled1.dir/Codeup/2313.c.o: \
  /Users/kangsiwoo/CLionProjects/untitled1/Codeup/2313.c
 CMakeFiles/untitled1.dir/Programmers/120802.c.o: \

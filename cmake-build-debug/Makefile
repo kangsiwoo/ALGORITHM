@@ -345,6 +345,54 @@ Codeup/1533.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1533.c.s
 .PHONY : Codeup/1533.c.s
 
+Codeup/1534.o: Codeup/1534.c.o
+.PHONY : Codeup/1534.o
+
+# target to build an object file
+Codeup/1534.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1534.c.o
+.PHONY : Codeup/1534.c.o
+
+Codeup/1534.i: Codeup/1534.c.i
+.PHONY : Codeup/1534.i
+
+# target to preprocess a source file
+Codeup/1534.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1534.c.i
+.PHONY : Codeup/1534.c.i
+
+Codeup/1534.s: Codeup/1534.c.s
+.PHONY : Codeup/1534.s
+
+# target to generate assembly for a file
+Codeup/1534.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1534.c.s
+.PHONY : Codeup/1534.c.s
+
+Codeup/1535.o: Codeup/1535.c.o
+.PHONY : Codeup/1535.o
+
+# target to build an object file
+Codeup/1535.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1535.c.o
+.PHONY : Codeup/1535.c.o
+
+Codeup/1535.i: Codeup/1535.c.i
+.PHONY : Codeup/1535.i
+
+# target to preprocess a source file
+Codeup/1535.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1535.c.i
+.PHONY : Codeup/1535.c.i
+
+Codeup/1535.s: Codeup/1535.c.s
+.PHONY : Codeup/1535.s
+
+# target to generate assembly for a file
+Codeup/1535.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1535.c.s
+.PHONY : Codeup/1535.c.s
+
 Codeup/2313.o: Codeup/2313.c.o
 .PHONY : Codeup/2313.o
 
@@ -765,6 +813,12 @@ help:
 	@echo "... Codeup/1533.o"
 	@echo "... Codeup/1533.i"
 	@echo "... Codeup/1533.s"
+	@echo "... Codeup/1534.o"
+	@echo "... Codeup/1534.i"
+	@echo "... Codeup/1534.s"
+	@echo "... Codeup/1535.o"
+	@echo "... Codeup/1535.i"
+	@echo "... Codeup/1535.s"
 	@echo "... Codeup/2313.o"
 	@echo "... Codeup/2313.i"
 	@echo "... Codeup/2313.s"

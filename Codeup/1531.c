@@ -1,4 +1,4 @@
-int f()
+int c1531()
 {
     return 1;
 }

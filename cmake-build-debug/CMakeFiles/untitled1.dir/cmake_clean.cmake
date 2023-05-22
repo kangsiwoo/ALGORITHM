@@ -8,6 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled1.dir/Codeup/1531.c.o"
   "CMakeFiles/untitled1.dir/Codeup/1532.c.o"
   "CMakeFiles/untitled1.dir/Codeup/1533.c.o"
+  "CMakeFiles/untitled1.dir/Codeup/1534.c.o"
+  "CMakeFiles/untitled1.dir/Codeup/1535.c.o"
   "CMakeFiles/untitled1.dir/Codeup/2313.c.o"
   "CMakeFiles/untitled1.dir/Programmers/120802.c.o"
   "CMakeFiles/untitled1.dir/Programmers/120803.c.o"
