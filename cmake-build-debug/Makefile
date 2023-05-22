@@ -225,6 +225,30 @@ Codeup/1528.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1528.c.s
 .PHONY : Codeup/1528.c.s
 
+Codeup/1529.o: Codeup/1529.c.o
+.PHONY : Codeup/1529.o
+
+# target to build an object file
+Codeup/1529.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1529.c.o
+.PHONY : Codeup/1529.c.o
+
+Codeup/1529.i: Codeup/1529.c.i
+.PHONY : Codeup/1529.i
+
+# target to preprocess a source file
+Codeup/1529.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1529.c.i
+.PHONY : Codeup/1529.c.i
+
+Codeup/1529.s: Codeup/1529.c.s
+.PHONY : Codeup/1529.s
+
+# target to generate assembly for a file
+Codeup/1529.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1529.c.s
+.PHONY : Codeup/1529.c.s
+
 Codeup/2313.o: Codeup/2313.c.o
 .PHONY : Codeup/2313.o
 
@@ -630,6 +654,9 @@ help:
 	@echo "... Codeup/1528.o"
 	@echo "... Codeup/1528.i"
 	@echo "... Codeup/1528.s"
+	@echo "... Codeup/1529.o"
+	@echo "... Codeup/1529.i"
+	@echo "... Codeup/1529.s"
 	@echo "... Codeup/2313.o"
 	@echo "... Codeup/2313.i"
 	@echo "... Codeup/2313.s"
