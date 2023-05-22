@@ -3,6 +3,8 @@
 
 CMakeFiles/untitled1.dir/Codeup/1104.c.o: \
  /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1104.c
+CMakeFiles/untitled1.dir/Codeup/2313.c.o: \
+ /Users/kangsiwoo/CLionProjects/untitled1/Codeup/2313.c
 CMakeFiles/untitled1.dir/Programmers/120802.c.o: \
  /Users/kangsiwoo/CLionProjects/untitled1/Programmers/120802.c
 CMakeFiles/untitled1.dir/Programmers/120803.c.o: \
