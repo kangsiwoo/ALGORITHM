@@ -153,29 +153,53 @@ Codeup/1104.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1104.c.s
 .PHONY : Codeup/1104.c.s
 
-Codeup/1676.o: Codeup/1676.c.o
-.PHONY : Codeup/1676.o
+Codeup/1526.o: Codeup/1526.c.o
+.PHONY : Codeup/1526.o
 
 # target to build an object file
-Codeup/1676.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1676.c.o
-.PHONY : Codeup/1676.c.o
+Codeup/1526.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1526.c.o
+.PHONY : Codeup/1526.c.o
 
-Codeup/1676.i: Codeup/1676.c.i
-.PHONY : Codeup/1676.i
+Codeup/1526.i: Codeup/1526.c.i
+.PHONY : Codeup/1526.i
 
 # target to preprocess a source file
-Codeup/1676.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1676.c.i
-.PHONY : Codeup/1676.c.i
+Codeup/1526.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1526.c.i
+.PHONY : Codeup/1526.c.i
 
-Codeup/1676.s: Codeup/1676.c.s
-.PHONY : Codeup/1676.s
+Codeup/1526.s: Codeup/1526.c.s
+.PHONY : Codeup/1526.s
 
 # target to generate assembly for a file
-Codeup/1676.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1676.c.s
-.PHONY : Codeup/1676.c.s
+Codeup/1526.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1526.c.s
+.PHONY : Codeup/1526.c.s
+
+Codeup/1527.o: Codeup/1527.c.o
+.PHONY : Codeup/1527.o
+
+# target to build an object file
+Codeup/1527.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1527.c.o
+.PHONY : Codeup/1527.c.o
+
+Codeup/1527.i: Codeup/1527.c.i
+.PHONY : Codeup/1527.i
+
+# target to preprocess a source file
+Codeup/1527.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1527.c.i
+.PHONY : Codeup/1527.c.i
+
+Codeup/1527.s: Codeup/1527.c.s
+.PHONY : Codeup/1527.s
+
+# target to generate assembly for a file
+Codeup/1527.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/Codeup/1527.c.s
+.PHONY : Codeup/1527.c.s
 
 Codeup/2313.o: Codeup/2313.c.o
 .PHONY : Codeup/2313.o
@@ -573,9 +597,12 @@ help:
 	@echo "... Codeup/1104.o"
 	@echo "... Codeup/1104.i"
 	@echo "... Codeup/1104.s"
-	@echo "... Codeup/1676.o"
-	@echo "... Codeup/1676.i"
-	@echo "... Codeup/1676.s"
+	@echo "... Codeup/1526.o"
+	@echo "... Codeup/1526.i"
+	@echo "... Codeup/1526.s"
+	@echo "... Codeup/1527.o"
+	@echo "... Codeup/1527.i"
+	@echo "... Codeup/1527.s"
 	@echo "... Codeup/2313.o"
 	@echo "... Codeup/2313.i"
 	@echo "... Codeup/2313.s"

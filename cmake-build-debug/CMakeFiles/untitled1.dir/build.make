@@ -287,18 +287,31 @@ CMakeFiles/untitled1.dir/Codeup/2313.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/Codeup/2313.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kangsiwoo/CLionProjects/untitled1/Codeup/2313.c -o CMakeFiles/untitled1.dir/Codeup/2313.c.s
 
-CMakeFiles/untitled1.dir/Codeup/1676.c.o: CMakeFiles/untitled1.dir/flags.make
-CMakeFiles/untitled1.dir/Codeup/1676.c.o: /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1676.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/untitled1.dir/Codeup/1676.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled1.dir/Codeup/1676.c.o -c /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1676.c
+CMakeFiles/untitled1.dir/Codeup/1526.c.o: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/Codeup/1526.c.o: /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1526.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/untitled1.dir/Codeup/1526.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled1.dir/Codeup/1526.c.o -c /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1526.c
 
-CMakeFiles/untitled1.dir/Codeup/1676.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled1.dir/Codeup/1676.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1676.c > CMakeFiles/untitled1.dir/Codeup/1676.c.i
+CMakeFiles/untitled1.dir/Codeup/1526.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled1.dir/Codeup/1526.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1526.c > CMakeFiles/untitled1.dir/Codeup/1526.c.i
 
-CMakeFiles/untitled1.dir/Codeup/1676.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/Codeup/1676.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1676.c -o CMakeFiles/untitled1.dir/Codeup/1676.c.s
+CMakeFiles/untitled1.dir/Codeup/1526.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/Codeup/1526.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1526.c -o CMakeFiles/untitled1.dir/Codeup/1526.c.s
+
+CMakeFiles/untitled1.dir/Codeup/1527.c.o: CMakeFiles/untitled1.dir/flags.make
+CMakeFiles/untitled1.dir/Codeup/1527.c.o: /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1527.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/untitled1.dir/Codeup/1527.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/untitled1.dir/Codeup/1527.c.o -c /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1527.c
+
+CMakeFiles/untitled1.dir/Codeup/1527.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled1.dir/Codeup/1527.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1527.c > CMakeFiles/untitled1.dir/Codeup/1527.c.i
+
+CMakeFiles/untitled1.dir/Codeup/1527.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled1.dir/Codeup/1527.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/kangsiwoo/CLionProjects/untitled1/Codeup/1527.c -o CMakeFiles/untitled1.dir/Codeup/1527.c.s
 
 # Object files for target untitled1
 untitled1_OBJECTS = \
@@ -319,7 +332,8 @@ untitled1_OBJECTS = \
 "CMakeFiles/untitled1.dir/Programmers/12937.c.o" \
 "CMakeFiles/untitled1.dir/Codeup/1104.c.o" \
 "CMakeFiles/untitled1.dir/Codeup/2313.c.o" \
-"CMakeFiles/untitled1.dir/Codeup/1676.c.o"
+"CMakeFiles/untitled1.dir/Codeup/1526.c.o" \
+"CMakeFiles/untitled1.dir/Codeup/1527.c.o"
 
 # External object files for target untitled1
 untitled1_EXTERNAL_OBJECTS =
@@ -341,10 +355,11 @@ untitled1: CMakeFiles/untitled1.dir/Programmers/12941.c.o
 untitled1: CMakeFiles/untitled1.dir/Programmers/12937.c.o
 untitled1: CMakeFiles/untitled1.dir/Codeup/1104.c.o
 untitled1: CMakeFiles/untitled1.dir/Codeup/2313.c.o
-untitled1: CMakeFiles/untitled1.dir/Codeup/1676.c.o
+untitled1: CMakeFiles/untitled1.dir/Codeup/1526.c.o
+untitled1: CMakeFiles/untitled1.dir/Codeup/1527.c.o
 untitled1: CMakeFiles/untitled1.dir/build.make
 untitled1: CMakeFiles/untitled1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable untitled1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking C executable untitled1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
