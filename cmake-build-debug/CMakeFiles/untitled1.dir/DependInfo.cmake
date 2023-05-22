@@ -15,6 +15,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/kangsiwoo/CLionProjects/untitled1/Codeup/1529.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Codeup/1529.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/Codeup/1530.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Codeup/1530.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/Codeup/1531.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Codeup/1531.c.o"
+  "/Users/kangsiwoo/CLionProjects/untitled1/Codeup/1532.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Codeup/1532.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/Codeup/2313.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Codeup/2313.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/Programmers/120802.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Programmers/120802.c.o"
   "/Users/kangsiwoo/CLionProjects/untitled1/Programmers/120803.c" "/Users/kangsiwoo/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/Programmers/120803.c.o"
